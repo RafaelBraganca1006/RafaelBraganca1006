@@ -14,12 +14,6 @@ Currently finishing my Bachelor's thesis on **communication-adaptive Federated N
 - 💬 Languages: Portuguese 🇧🇷 (native) · English 🇺🇸 (C1) · German 🇨🇭 (C1) · Spanish 🇪🇸 (B1)
 - 🔗 Looking to collaborate on agentic AI systems, LLM pipelines, and applied ML.
 
-
-## 📊 GitHub Stats
-
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 📫 Reach me at
