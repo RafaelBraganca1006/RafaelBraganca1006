@@ -1,4 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Rafael Bragança
+
+BSc Computer Science @ ETH Zurich · São Paulo 🇧🇷 → Zurich 🇨🇭
+
+---
+
+## About
+
+Currently finishing my Bachelor's thesis on **communication-adaptive Federated Neural Architecture Search** with Prof. Roger Wattenhofer at ETH Zurich. Previously Research Assistant at TUM's GenAI Lab. Interested in agentic AI systems, applied ML, and blockchain infrastructure.
+
+---
+
+- 🚀 Founded [MundoAI](https://www.tiktok.com/@mundoai_), an AI-generated content channel that reached **200K+ followers and 60M+ views**
+- 💬 Languages: Portuguese 🇧🇷 (native) · English 🇺🇸 (C1) · German 🇨🇭 (C1) · Spanish 🇪🇸 (B1)
+- 🔗 Looking to collaborate on agentic AI systems, LLM pipelines, and applied ML.
+
+
+## 📊 GitHub Stats
+
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Reach me at
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bragan%C3%A7a-oliveira-9a624b1bb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rbranganca@gmail.com)
+
+---
 
 <!--
 **RafaelBraganca1006/RafaelBraganca1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
