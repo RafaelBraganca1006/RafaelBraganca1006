@@ -6,11 +6,12 @@ BSc Computer Science @ ETH Zurich · São Paulo 🇧🇷 → Zurich 🇨🇭
 
 ## About
 
-Currently finishing my Bachelor's thesis on **communication-adaptive Federated Neural Architecture Search** with Prof. Roger Wattenhofer at ETH Zurich. Previously Research Assistant at TUM's GenAI Lab. Interested in agentic AI systems, applied ML, and blockchain infrastructure.
+Currently finishing my Bachelor's thesis on **communication-adaptive Federated Neural Architecture Search** with Prof. Roger Wattenhofer at ETH Zurich. Previously Research Assistant at TUM's GenAI Lab (Professorship of Digital Marketing). Interested in agentic AI systems, applied ML, and blockchain infrastructure.
 
 ---
 
 - 🚀 Founded [MundoAI](https://www.tiktok.com/@mundoai_), an AI-generated content channel that reached **200K+ followers and 60M+ views**
+- 🤝 Board Member @ [Claude Builders Club Zurich](https://www.claudethzurich.com/) · [ETH Blockchain Club](https://eth-blockchain.org/) · BRASA Zürich
 - 💬 Languages: Portuguese 🇧🇷 (native) · English 🇺🇸 (C1) · German 🇨🇭 (C1) · Spanish 🇪🇸 (B1)
 - 🔗 Looking to collaborate on agentic AI systems, LLM pipelines, and applied ML.
 
